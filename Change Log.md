@@ -2,4 +2,4 @@
 ***
 **Dec 3, 2018:**
 * (BUG) sleep plugin spam issue resolved.
-* (PERMISSION) added */tpahere* command by request.
+* (PERMISSION) added /tpahere command by request.
