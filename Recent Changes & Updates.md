@@ -8,5 +8,3 @@
 **Dec 4, 2018:**
 * (BUG) sleep plugin percentage issue resolved.
 
-**Dec 6, 2018:**
-* Boop Test
